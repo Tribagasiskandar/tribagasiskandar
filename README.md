@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Tri Bagas Iskandar 👋<br>I'm a front-end developer with 1 Years of experience in building responsive and <br>user-friendly web applications. My passion for creating clean and maintainable<br> code has led me to specialize in modern front-end technologies like React, and Next Js
+Hi there, I'm Tri Bagas Iskandar 👋<br>I'm a front-end developer with 3 Years of experience in building responsive and <br>user-friendly web applications. My passion for creating clean and maintainable<br> code has led me to specialize in modern front-end technologies like React, and Next Js
 
 
 # 💻 Tech Stack:
